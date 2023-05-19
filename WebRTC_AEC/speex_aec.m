@@ -1,6 +1,4 @@
-%    Copyright (C) 2012      Waves Audio LTD
-%    Copyright (C) 2003-2008 Jean-Marc Valin
-%
+
 %    File: speex_mdf.m
 %    Echo canceller based on the MDF algorithm (see below)
 % 
